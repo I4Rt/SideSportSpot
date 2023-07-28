@@ -1,0 +1,12 @@
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+#roomsList{
+    width:300px;
+    height: 300px;
+    overflow-y: scroll;
+}
